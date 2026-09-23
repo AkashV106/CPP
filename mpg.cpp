@@ -11,8 +11,8 @@ Code, Compile, Run and Debug online from anywhere in world.
 int main()
 {
      float gallons, range, mpg;
-    gallons = 11;
-    range = 200;
+    gallons = 16;
+    range = 312;
     mpg = range / gallons;
     std::cout<<"The car gives "<<mpg<<" miles per gallon\n";
 
