@@ -11,8 +11,8 @@ Code, Compile, Run and Debug online from anywhere in world.
 int main()
 {
   int num1,num2,TOTAL;
-  num1=300;
-  num2=203;
+  num1=100;
+  num2=50;
   TOTAL = num1+num2;
   std::cout<<"The total is "<<TOTAL<<"\n";
 
