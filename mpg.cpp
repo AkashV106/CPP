@@ -10,7 +10,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 int main()
 {
-     float gallons, range, mpg;
+     double gallons, range, mpg;
     gallons = 16;
     range = 312;
     mpg = range / gallons;
